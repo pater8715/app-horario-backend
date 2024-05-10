@@ -1,4 +1,4 @@
-package com.uniremington.edu.co.horario.app.horarioappbackend;
+package com.uniremington.edu.co.schedule.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
